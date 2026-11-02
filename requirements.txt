@@ -1,0 +1,9 @@
+flask
+ultralytics
+pillow
+google-genai
+python-dotenv
+numpy
+gunicorn
+opencv-python-headless
+paddleocr

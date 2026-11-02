@@ -1,0 +1,10 @@
+venv/
+env/
+.env
+__pycache__/
+*.pyc
+static/uploads/*
+static/debug/*
+output
+debug.py
+cau-truc.txt
